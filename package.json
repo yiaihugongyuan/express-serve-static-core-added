@@ -40,8 +40,8 @@
     "types": "index.d.ts",
     "repository": {
         "type": "git",
-        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
-        "directory": "types/express-serve-static-core"
+        "url": "https://github.com/yiaihugongyuan/express-serve-static-core-added",
+        "directory": ""
     },
     "scripts": {},
     "dependencies": {
